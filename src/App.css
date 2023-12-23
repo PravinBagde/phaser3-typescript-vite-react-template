@@ -1,0 +1,6 @@
+.app {
+	text-align: center;
+	display: flex;
+	flex-flow: column;
+	padding:0 1rem;
+}
