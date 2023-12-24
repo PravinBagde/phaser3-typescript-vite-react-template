@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 
 import PreloadScene from "@/scenes/PreloadScene";
 import PlayScene from "@/scenes/PlayScene";
-//
+
 export const GameContainer: React.FC = () => {
   useEffect(() => {
     const gameConfig: Phaser.Types.Core.GameConfig = {
